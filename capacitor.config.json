@@ -1,0 +1,6 @@
+{
+  "appId": "com.school",
+  "appName": "school",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
